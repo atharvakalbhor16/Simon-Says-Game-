@@ -1,1 +1,1 @@
-This is Simon Says game. Made using HTML, CSS and JavaScript.
+This is Simon Says game using HTML, CSS and JavaScript.
